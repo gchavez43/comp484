@@ -1,2 +1,14 @@
-# comp484
-This is a test for exporting project from glitch
+# lab_instructions.txt
+
+In the text will you will find the hw instructions
+
+ヽ(๏∀๏ )ﾉ
+
+
+
+
+
+## ← intro.html
+
+pretty much the index.html 
+
